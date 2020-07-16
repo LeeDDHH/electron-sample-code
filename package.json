@@ -1,0 +1,17 @@
+{
+  "name": "electron-sample-code",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:LeeDDHH/electron-sample-code.git",
+  "author": "dongheon lee <niche3600@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "engines": {
+    "npm": "do not use npm install"
+  },
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
