@@ -12,6 +12,6 @@
     "npm": "do not use npm install"
   },
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^18.3.7"
   }
 }
